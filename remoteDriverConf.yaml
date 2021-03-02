@@ -1,0 +1,22 @@
+
+remoteDriverURL: "http://10.2.20.47:4444/wd/hub"
+simlar: 0.98
+
+PC:
+  - browerType: chrome
+    version: ""
+    implicitlyWait: 30
+    pageLoadTimeout: 30
+  - browerType: firefox
+    version: ""
+    implicitlyWait: 30
+    pageLoadTimeout: 30
+APP:
+  - ClintOS: iOS
+    version: ""
+    implicitlyWait: 30
+    pageLoadTimeout: 30
+  - ClintOS: Android
+    version: ""
+    implicitlyWait: 30
+    pageLoadTimeout: 30

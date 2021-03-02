@@ -1,0 +1,9 @@
+
+remoteDriverURL: "http://10.2.20.47:4444/wd/hub"
+simlar: 0.98
+
+PC:
+  - browerType: chrome
+    version: "v84.20"
+  - browerType: firefox
+    version: ""
